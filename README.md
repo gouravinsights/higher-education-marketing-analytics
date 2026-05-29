@@ -89,3 +89,18 @@ Dashboard
 Strategic Recommendations
 Tools Used
 What I Learned
+## Dashboard
+
+![Dashboard](dashboard.png)
+
+## Cost Per Enrollment
+
+![Cost Per Enrollment](cost_per_enrollment.png)
+
+## Conversion Rate
+
+![Conversion Rate](conversion_rate.png)
+
+## Conversion vs Cost Per Enrollment
+
+![Scatter Plot](conversion_vs_cost.png)
