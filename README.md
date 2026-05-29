@@ -4,29 +4,35 @@
 
 ---
 
+# Executive Dashboard
+
+![Dashboard](Dashboard_Portfolio.png)
+
+---
+
 # Project Overview
 
-This project evaluates the performance of six postgraduate academic programs using marketing and admissions data from 2024–2025.
+This project evaluates marketing performance across six postgraduate academic programs and identifies opportunities to improve conversion efficiency, enrollment economics, and portfolio performance.
 
-The analysis focuses on understanding:
+The analysis focuses on:
 
-* Which programs generate the strongest enrollment outcomes
-* Which programs should be scaled
-* Which programs require conversion improvements
-* Which programs require strategic redesign
-* How marketing spend impacts enrollment economics
+* Program-level performance evaluation
+* Conversion optimization
+* Enrollment cost analysis
+* Portfolio prioritisation
+* Executive decision support
 
 ---
 
 # Business Objective
 
-The primary objective was to translate marketing performance data into actionable business recommendations by:
+The objective of this analysis was to:
 
-* Evaluating lead-to-admission conversion efficiency
-* Comparing program-level enrollment economics
-* Identifying high-performing and underperforming programs
-* Developing executive-level insights and recommendations
-* Creating a stakeholder-friendly dashboard
+* Evaluate lead-to-admission performance
+* Identify high-performing and underperforming programs
+* Analyse enrollment economics
+* Generate actionable business recommendations
+* Build an executive dashboard for stakeholder decision-making
 
 ---
 
@@ -44,92 +50,29 @@ The primary objective was to translate marketing performance data into actionabl
 
 # KPI Summary
 
-![KPI Summary](KPI_Summary_Portfolio\(1\).png)
+![KPI Summary](KPI_Summary_Portfolio.png)
 
-### Key Highlights
+### Key Findings
 
-* Admissions increased by 29% despite a 20% decline in lead volume.
+* Admissions increased by 29% despite a 20% reduction in lead volume.
 * Conversion improved from 3.55% to 5.76%.
 * Cost per enrollment reduced by 36%.
-* Growth was driven by efficiency improvements rather than lead volume growth.
+* Growth was primarily driven by funnel efficiency rather than lead volume growth.
 
 ---
 
 # Program Analysis
 
-![Program Analysis](Program_Analysis_Portfolio\(1\).png)
+![Program Analysis](Program_Analysis_Portfolio.png)
 
-Programs were classified into three strategic categories:
-
-### Scale
-
-* AI & ML
-* Computing Systems & Infrastructure (CSI)
-
-### Fix Conversion
-
-* Cloud Computing
-* Software Systems
-
-### Redesign
-
-* Data Science & Engineering
-* Software Engineering
-
----
-
-# Executive Dashboard
-
-![Dashboard](Dashboard_Portfolio\(1\).png)
-
-The dashboard consolidates:
-
-* Portfolio KPIs
-* Year-over-year performance
-* Program rankings
-* Strategic recommendations
-* Business insights
-
----
-
-# Cost Per Enrollment Analysis
-
-![Cost Per Enrollment](Cost_Per_Enrollment_By_Program\(1\).png)
-
-### Key Insight
-
-AI & ML delivers enrollments at nearly four times lower cost than Data Science & Engineering, making it the most efficient program within the portfolio.
-
----
-
-# Conversion Rate Analysis
-
-![Conversion Rate](Conversion_Rate_By_Program\(1\).png)
-
-### Key Insight
-
-AI & ML and CSI significantly outperform the portfolio average, demonstrating stronger lead-to-admission conversion efficiency.
-
----
-
-# Conversion vs Cost Per Enrollment
-
-![Conversion vs Cost](Conversion_vs_Cost_Scatter\(2\).png)
-
-### Key Insight
-
-Programs with stronger conversion performance consistently achieve lower enrollment costs, indicating that conversion efficiency is a major driver of portfolio profitability.
-
----
-
-# Strategic Recommendations
+Programs were categorised into three strategic groups:
 
 ## Scale
 
 Programs demonstrating strong conversion performance and favourable enrollment economics.
 
 * AI & ML
-* CSI
+* Computing Systems & Infrastructure (CSI)
 
 ## Fix Conversion
 
@@ -147,14 +90,63 @@ Programs requiring immediate intervention due to weak enrollment economics.
 
 ---
 
+# Cost Per Enrollment Analysis
+
+![Cost Per Enrollment](Cost_Per_Enrollment_By_Program.png)
+
+### Insight
+
+AI & ML delivers enrollments at nearly four times lower cost than Data Science & Engineering, making it the most efficient program within the portfolio.
+
+---
+
+# Conversion Rate Analysis
+
+![Conversion Rate](Conversion_Rate_By_Program.png)
+
+### Insight
+
+AI & ML and CSI significantly outperform the portfolio average, demonstrating stronger lead-to-admission conversion efficiency.
+
+---
+
+# Conversion vs Cost Per Enrollment
+
+![Scatter Plot](Conversion_vs_Cost_Scatter.png)
+
+### Insight
+
+Programs with stronger conversion performance consistently achieve lower enrollment costs, indicating that conversion efficiency is a major driver of enrollment economics.
+
+---
+
+# Strategic Recommendations
+
+## Scale
+
+* Increase investment in AI & ML.
+* Test additional budget allocation for CSI.
+
+## Fix Conversion
+
+* Improve admissions conversion processes for Cloud Computing.
+* Optimise funnel performance for Software Systems.
+
+## Redesign
+
+* Reassess positioning and targeting for Software Engineering.
+* Conduct detailed funnel analysis for Data Science & Engineering.
+
+---
+
 # Tools Used
 
 * Google Sheets
 * Pivot Tables
-* KPI Analysis
 * Marketing Analytics
-* Dashboard Design
+* KPI Analysis
 * Business Analysis
+* Dashboard Design
 
 ---
 
@@ -162,20 +154,32 @@ Programs requiring immediate intervention due to weak enrollment economics.
 
 This project strengthened my ability to:
 
-* Convert raw marketing data into business insights
-* Evaluate program performance using enrollment economics
-* Develop executive-level recommendations
-* Build dashboards for stakeholder decision-making
-* Move beyond reporting and focus on strategic business impact
+* Transform raw marketing data into actionable business insights.
+* Evaluate portfolio performance using enrollment economics.
+* Build executive dashboards for stakeholder communication.
+* Translate analytical findings into strategic recommendations.
+* Move beyond reporting and focus on business decision-making.
 
 ---
 
-# Future Improvements
+# Repository Contents
 
-Potential enhancements for future versions include:
+* Program Analysis.pdf
+* KPI Summary Dashboard
+* Program Analysis Dashboard
+* Executive Dashboard
+* Cost Per Enrollment Analysis
+* Conversion Rate Analysis
+* Conversion vs Cost Analysis
+
+---
+
+# Future Enhancements
+
+Potential improvements for future versions include:
 
 * Power BI implementation
-* Automated reporting pipelines
+* Automated reporting workflows
 * Predictive enrollment forecasting
 * Marketing attribution modeling
-* ROI and revenue impact simulations
+* Revenue impact simulations
