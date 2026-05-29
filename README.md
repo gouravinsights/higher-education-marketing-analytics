@@ -81,3 +81,11 @@ The objective was to:
 ## What I Learned
 
 This project helped me move beyond reporting metrics and focus on business decision-making by linking conversion performance, enrollment economics, and marketing effectiveness to strategic recommendations.
+Project Overview
+Business Objective
+Dataset
+Key Findings
+Dashboard
+Strategic Recommendations
+Tools Used
+What I Learned
